@@ -1,5 +1,5 @@
-# CAPSTONE-PROJECT-Part-1 (EDA)
-## CAPSTONE PROJECT Part-1(25/12/2021)
+# CAPSTONE-PROJECT-Part-1 
+## CAPSTONE PROJECT Part-1 (EDA part)
   * Part-1 consists of exploratory data analysis.
   * Part-2 consists of biulding machine learning models.
 
